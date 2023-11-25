@@ -1,4 +1,4 @@
-import { coloursArray } from './coloursArray.js';
+import { coloursArray } from './coloursArray';
 import fs from 'fs';
 import path from 'path';
 const __dirname = path.resolve();
