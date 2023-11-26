@@ -54,7 +54,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 
+
 <img width="925" alt="Screen Shot 2023-11-25 at 5 11 04 PM copy" src="https://github.com/manjotpadda13/MPSVG-LogoMaker/assets/79305241/c00a1697-2e4b-4aea-8a2b-06a83f4db52f">
+
+
 
 
 
