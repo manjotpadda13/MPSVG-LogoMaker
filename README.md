@@ -50,13 +50,21 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ### Screenshots - npm test/logo svg
 
 
+<img width="711" alt="npm-test copy" src="https://github.com/manjotpadda13/MPSVG-LogoMaker/assets/79305241/23106f82-4d37-4931-968b-0101395ad7fc">
 
+
+
+<img width="925" alt="Screen Shot 2023-11-25 at 5 11 04 PM copy" src="https://github.com/manjotpadda13/MPSVG-LogoMaker/assets/79305241/c00a1697-2e4b-4aea-8a2b-06a83f4db52f">
 
 
 
 
 ## Walkthrough video - npm test 
 
+
+
+
+https://github.com/manjotpadda13/MPSVG-LogoMaker/assets/79305241/32a5dabf-3b26-46ad-acdd-dee62ccef5ae
 
 
 
