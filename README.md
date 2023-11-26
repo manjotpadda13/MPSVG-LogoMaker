@@ -32,18 +32,16 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 
+## Usage 
 
-
-
-
-
-
-
-
-
-
-
-
+- Open the cloned repository in any source code editor e.g. Visual Studio Code.
+- Open integrated terminal on index.js
+- Enter “node index.js” in the command line
+- Through sequential order within the command line interface the user will be - presented with npm inquirer questions  the user will provide a response to each - question and proceed.
+- Once completed a SVG file named "logo.svg" will be created.
+- At your discretion, you may rename the "logo.svg" file to the file name of your choice.
+- (Optional) Regarding future use, you may alter the prompted questions within the index.js to best suit your needs.
+- (Optional) The SVG Logo Maker serves as a foundation so you are not limited to altering the files (as you have my permission) to create the best possible "logo.svg" file.
 
 
 
