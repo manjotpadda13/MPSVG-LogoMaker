@@ -34,7 +34,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ### Usage 
 
-```md
+
 
 - Open the cloned repository in any source code editor e.g. Visual Studio Code.
 - Open integrated terminal on index.js
@@ -49,7 +49,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ### Screenshots - npm test/logo svg
 
-```md
+
 
 
 
@@ -57,10 +57,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walkthrough video - npm test 
 
-```md
+
 
 
 
 ## Walkthrough video - logo svg
 
-```md
+
