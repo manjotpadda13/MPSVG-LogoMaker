@@ -64,15 +64,11 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walkthrough video - npm test 
 
-
-
-
-https://github.com/manjotpadda13/MPSVG-LogoMaker/assets/79305241/32a5dabf-3b26-46ad-acdd-dee62ccef5ae
-
+https://drive.google.com/file/d/1oCsmYpz0z7-SYTXfBvFMG9oC1Tksr_T8/view
 
 
 
 ## Walkthrough video - logo svg
 
-[
-(https://drive.google.com/drive/my-drive)https://drive.google.com/drive/my-drive
+
+https://drive.google.com/file/d/19o5ktVLPBgo66fGKdYx0mNuCe3PpPZg0/view)https://drive.google.com/file/d/19o5ktVLPBgo66fGKdYx0mNuCe3PpPZg0/view
