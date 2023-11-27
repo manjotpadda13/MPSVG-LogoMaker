@@ -74,4 +74,5 @@ https://github.com/manjotpadda13/MPSVG-LogoMaker/assets/79305241/32a5dabf-3b26-4
 
 ## Walkthrough video - logo svg
 
-
+[
+(https://drive.google.com/drive/my-drive)https://drive.google.com/drive/my-drive
